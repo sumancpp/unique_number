@@ -11,7 +11,7 @@ int findNum(vector<int>& nums){
 }
 int main(){
 
-    vector<int>nums={1,2,3,2,1};
+    vector<int>nums={10,20,30,20,10};
     cout << "The unique number is: "<< findNum(nums)<< endl;
 
     return 0;
